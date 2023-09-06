@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abi Medero 
 - 👀 I’m interested in Technology & life and health sciences.
-- 🌱 I’m currently learning Web development with HTML5, CSS3, JavaScript, Bootstrap, Springbot, MySQL and Java.
+- 🌱 I’m currently studying Commercial Software Engineering.
 - 💞️ I’m looking to collaborate on projects to continue developing professionally.
 - 📫 To reach me on LinkedIn look for me as /AbiMeGab
 
